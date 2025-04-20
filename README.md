@@ -1,4 +1,5 @@
 # apnaCollegeDemo
 This is my first Git Repository
 </br>
-Author : Md Ajmal Hussain
+Author : Ajmal Hussain
+Date: 20th April
